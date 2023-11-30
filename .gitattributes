@@ -1,0 +1,7 @@
+splitad filter=lfs diff=lfs merge=lfs -text
+splitae filter=lfs diff=lfs merge=lfs -text
+splitaf filter=lfs diff=lfs merge=lfs -text
+splitag filter=lfs diff=lfs merge=lfs -text
+splitaa filter=lfs diff=lfs merge=lfs -text
+splitab filter=lfs diff=lfs merge=lfs -text
+splitac filter=lfs diff=lfs merge=lfs -text
